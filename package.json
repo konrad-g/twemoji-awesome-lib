@@ -1,0 +1,28 @@
+{
+  "name": "twemoji-awesome-lib",
+  "version": "1.0.0",
+  "description": "Like Font Awesome, but for Twitter Emoji",
+  "main": "index.html",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konrad-g/twemoji-awesome-lib.git"
+  },
+  "keywords": [
+    "twemoji",
+    "emoji",
+    "font",
+    "awesome"
+  ],
+  "author": "Konrad Gadzinowski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/konrad-g/twemoji-awesome-lib/issues"
+  },
+  "homepage": "https://github.com/konrad-g/twemoji-awesome-lib#readme"
+}
