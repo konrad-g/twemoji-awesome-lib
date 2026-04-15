@@ -4,7 +4,19 @@ Like [Font Awesome](http://fontawesome.io), but for [Twitter Emoji](http://twitt
 
 ## Installation
 
-Include the stylesheet in your HTML:
+**Via npm:**
+
+```bash
+npm install twemoji-awesome-lib
+```
+
+Then import the CSS in your JS/TS:
+
+```js
+import 'twemoji-awesome-lib'
+```
+
+**Or include directly in HTML:**
 
 ```html
 <link rel="stylesheet" href="lib/twemoji-awesome.css">
